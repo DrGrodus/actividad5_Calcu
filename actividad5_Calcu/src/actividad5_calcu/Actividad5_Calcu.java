@@ -8,11 +8,11 @@ public class Actividad5_Calcu {
         /* El programa hará operaciones aritmétcias básicas 
         (suma, resta, multiplicación, división y módulo)
         */
-        int num1 = 6;
-        int num2 = 8;// Numeros a evaluar
+        double num1 = 6;
+        double num2 = 8;// Numeros a evaluar
         
-        int suma = num1 + num2; // sumatoria
-        int resta = num1 - num2; // resta
+        double suma = num1 + num2; // sumatoria
+        double resta = num1 - num2; // resta
         double multi = num1 * num2; // multiplicación
         double div = num1 / num2; // división
         double mod = num1 % num2; // módulo
